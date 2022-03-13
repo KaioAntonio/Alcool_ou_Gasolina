@@ -11,8 +11,9 @@
 
 ### 📱 Demonstração
 ---
-
-![imagem_2022-03-13_200549](https://user-images.githubusercontent.com/75454785/158083434-49297257-5d3a-430f-80ec-554e1f401658.png)
+<h1 align="center">
+	![imagem_2022-03-13_200549](https://user-images.githubusercontent.com/75454785/158083434-49297257-5d3a-430f-80ec-554e1f401658.png)    
+</h1>
 
 
 ### 🛠 Tecnologias
